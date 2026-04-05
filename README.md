@@ -11,3 +11,5 @@
 
 Ссылка на Docker Hub:
 https://hub.docker.com/repository/docker/artlosk/parcel-repo/general
+
+![Иллюстрация к проекту](https://github.com/artlosk/cicd_sprint12_final/raw/dev/screen.png)
